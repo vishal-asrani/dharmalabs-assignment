@@ -1,0 +1,21 @@
+{
+  "name": "dharmalabsassignment",
+  "version": "1.0.0",
+  "description": "Dharma Labs Programming Assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "app.js"
+  },
+  "keywords": [
+    "any",
+    "keywor"
+  ],
+  "author": "Vishal Asrani",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.16.2",
+    "moment": "^2.19.2",
+    "sequelize": "3.3.2"
+  }
+}
